@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071107946756",
+    "project_id": "elite-entebbe",
+    "storage_bucket": "elite-entebbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071107946756:android:af0428f6951d3d6980f851",
+        "android_client_info": {
+          "package_name": "com.example.eliteentebbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071107946756-p1vg5vr9tqr20jetd6l92car96dfsjpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUJ8lcKGyh6T3ybAht990OwG1V_73qg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071107946756-p1vg5vr9tqr20jetd6l92car96dfsjpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
